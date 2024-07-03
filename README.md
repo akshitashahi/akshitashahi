@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshita Shahi</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=akshitashahi&label=Profile%20views&color=0e75b6&style=flat" alt="akshitashahi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshitashahi&label=Profile%20views&color=0e75b6&style=flat" alt="akshitashahi" /> </p>
 
 - 🌱 I’m currently learning **Javascript**
 
