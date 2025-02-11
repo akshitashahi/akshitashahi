@@ -5,13 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshitashahi" alt="akshitashahi" /></a> </p>
 
-- 🔭 I’m currently working on **StudyNotion**
-
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Node.js** deeply
 
 - 📫 How to reach me **akshitas0806@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IOivSMEyaSSSYvctWEbGN_Hb2QyZikRk/view?usp=drivesdk](https://drive.google.com/file/d/1IOivSMEyaSSSYvctWEbGN_Hb2QyZikRk/view?usp=drivesdk)
 
 - ⚡ Fun fact **I think I can memorize entire pages of text in under a minute**
 
